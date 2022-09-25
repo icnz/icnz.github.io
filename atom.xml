@@ -6,7 +6,7 @@
   <link href="https://icnz.github.io/atom.xml" rel="self"/>
   
   <link href="https://icnz.github.io/"/>
-  <updated>2022-09-25T12:19:20.006Z</updated>
+  <updated>2022-09-25T14:32:10.295Z</updated>
   <id>https://icnz.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://icnz.github.io/posts/276eff71.html"/>
     <id>https://icnz.github.io/posts/276eff71.html</id>
     <published>2022-09-25T04:00:00.000Z</published>
-    <updated>2022-09-25T12:19:20.006Z</updated>
+    <updated>2022-09-25T14:32:10.295Z</updated>
     
     
       
@@ -38,11 +38,9 @@
     <category term="软件工具" scheme="https://icnz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="图床" scheme="https://icnz.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    <category term="Github" scheme="https://icnz.github.io/tags/Github/"/>
     
     <category term="jsDelivr" scheme="https://icnz.github.io/tags/jsDelivr/"/>
-    
-    <category term="Github" scheme="https://icnz.github.io/tags/Github/"/>
     
   </entry>
   
@@ -107,7 +105,7 @@
     <link href="https://icnz.github.io/posts/fa177d36.html"/>
     <id>https://icnz.github.io/posts/fa177d36.html</id>
     <published>2022-09-24T09:00:00.000Z</published>
-    <updated>2022-09-25T05:59:48.360Z</updated>
+    <updated>2022-09-25T12:26:09.817Z</updated>
     
     
       
@@ -125,6 +123,8 @@
     
     <category term="Hexo" scheme="https://icnz.github.io/tags/Hexo/"/>
     
+    <category term="Github" scheme="https://icnz.github.io/tags/Github/"/>
+    
   </entry>
   
   <entry>
@@ -132,7 +132,7 @@
     <link href="https://icnz.github.io/posts/a0b1cc7d.html"/>
     <id>https://icnz.github.io/posts/a0b1cc7d.html</id>
     <published>2022-09-24T08:00:00.000Z</published>
-    <updated>2022-09-25T05:47:01.308Z</updated>
+    <updated>2022-09-25T12:25:10.395Z</updated>
     
     
       
