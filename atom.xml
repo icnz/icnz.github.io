@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>左手烟火右手清欢</title>
+  
+  <subtitle>左手烟火右手清欢</subtitle>
+  <link href="https://icnz.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://icnz.github.io/"/>
+  <updated>2022-09-25T12:19:20.006Z</updated>
+  <id>https://icnz.github.io/</id>
+  
+  <author>
+    <name>icnz</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jsDelivr + Github 搭建自己的图床</title>
+    <link href="https://icnz.github.io/posts/276eff71.html"/>
+    <id>https://icnz.github.io/posts/276eff71.html</id>
+    <published>2022-09-25T04:00:00.000Z</published>
+    <updated>2022-09-25T12:19:20.006Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;图床就是图片存放的地址，用来节省服务器的资源，也可以变相的提升网站加载速度。&lt;/p&gt;
+&lt;p&gt;市面上热门的图床像 &lt;a href=&quot;https://sm.ms/&quot;&gt;sm.ms图床&lt;/a&gt; 、&lt;a href=&quot;https://moetu.org/&quot;&gt;moetu图床&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="软件工具" scheme="https://icnz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="图床" scheme="https://icnz.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+    <category term="jsDelivr" scheme="https://icnz.github.io/tags/jsDelivr/"/>
+    
+    <category term="Github" scheme="https://icnz.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Emoji表情语法速查表</title>
+    <link href="https://icnz.github.io/posts/8b84c108.html"/>
+    <id>https://icnz.github.io/posts/8b84c108.html</id>
+    <published>2022-09-25T03:00:00.000Z</published>
+    <updated>2022-09-25T04:27:52.920Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;写文章经常用到Emoji，下面是Emoji表情的语法速查表，以后用到的时候查一查，挺方便的。&lt;/p&gt;
+&lt;h2 id=&quot;开发用-emoji-指南&quot;&gt;&lt;a href=&quot;#开发用-emoji-指南&quot; class=&quot;headerlink&quot; title=&quot;开发用 emoji</summary>
+        
+      
+    
+    
+    
+    <category term="软件工具" scheme="https://icnz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="Markdown" scheme="https://icnz.github.io/tags/Markdown/"/>
+    
+    <category term="Emoji" scheme="https://icnz.github.io/tags/Emoji/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用hexo-theme-matery主题美化自己的博客</title>
+    <link href="https://icnz.github.io/posts/98795dfa.html"/>
+    <id>https://icnz.github.io/posts/98795dfa.html</id>
+    <published>2022-09-25T01:00:00.000Z</published>
+    <updated>2022-09-25T02:26:10.987Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这是一个采用&lt;code&gt;Material Design&lt;/code&gt;和响应式设计的 Hexo 博客主题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;特性&quot;&gt;&lt;a href=&quot;#特性&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="软件工具" scheme="https://icnz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="Hexo" scheme="https://icnz.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo + Github Pages快速搭建自己的博客</title>
+    <link href="https://icnz.github.io/posts/fa177d36.html"/>
+    <id>https://icnz.github.io/posts/fa177d36.html</id>
+    <published>2022-09-24T09:00:00.000Z</published>
+    <updated>2022-09-25T05:59:48.360Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;现在市面上的博客有许多，比如：博客园、简书、掘金等。虽然使用很人性化，发表内容也很方便，但终归不是自己的平台，经常会受限制。基于此，决定建立自己的博客。经过多方尝试，决定使用Hexo + Github</summary>
+        
+      
+    
+    
+    
+    <category term="软件工具" scheme="https://icnz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="Hexo" scheme="https://icnz.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown基础教程</title>
+    <link href="https://icnz.github.io/posts/a0b1cc7d.html"/>
+    <id>https://icnz.github.io/posts/a0b1cc7d.html</id>
+    <published>2022-09-24T08:00:00.000Z</published>
+    <updated>2022-09-25T05:47:01.308Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。它使用易读易写的纯文本格式编写文档，可与HTML混编，可导出 HTML、PDF 以及本身的 .md</summary>
+        
+      
+    
+    
+    
+    <category term="软件工具" scheme="https://icnz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="Markdown" scheme="https://icnz.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>左手茶香是烟火，右手书香是清欢</title>
+    <link href="https://icnz.github.io/posts/df337fa7.html"/>
+    <id>https://icnz.github.io/posts/df337fa7.html</id>
+    <published>2022-09-24T07:00:00.000Z</published>
+    <updated>2022-09-24T09:13:28.811Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;　　坐在离落地窗很近的桌前，左手一盏茶，右手一本书，便是最幸福的时光。心如止水，念若琉璃，岁月静谧，流年如诗。就这样，享受茶与书带来的安暖与幸福。&lt;/p&gt;
+&lt;p&gt;　　清晨，一米阳光照进落地窗，轻轻翻开宋词300首，走进书里，走进历史长河里，读一千首诗词，经历一千种人生。&lt;/</summary>
+        
+      
+    
+    
+    
+    <category term="美文" scheme="https://icnz.github.io/categories/%E7%BE%8E%E6%96%87/"/>
+    
+    
+    <category term="美文欣赏" scheme="https://icnz.github.io/tags/%E7%BE%8E%E6%96%87%E6%AC%A3%E8%B5%8F/"/>
+    
+  </entry>
+  
+</feed>
