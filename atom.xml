@@ -6,7 +6,7 @@
   <link href="https://icnz.github.io/atom.xml" rel="self"/>
   
   <link href="https://icnz.github.io/"/>
-  <updated>2022-09-25T14:39:25.888Z</updated>
+  <updated>2022-10-01T14:32:56.339Z</updated>
   <id>https://icnz.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown利器Typora最新版免序列号激活</title>
+    <link href="https://icnz.github.io/posts/7f769ef1.html"/>
+    <id>https://icnz.github.io/posts/7f769ef1.html</id>
+    <published>2022-09-30T01:00:00.000Z</published>
+    <updated>2022-10-01T14:32:56.339Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Typora 是一款 Markdown</summary>
+        
+      
+    
+    
+    
+    <category term="软件工具" scheme="https://icnz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="Markdown" scheme="https://icnz.github.io/tags/Markdown/"/>
+    
+    <category term="补丁" scheme="https://icnz.github.io/tags/%E8%A1%A5%E4%B8%81/"/>
+    
+  </entry>
   
   <entry>
     <title>jsDelivr + Github 搭建自己的图床</title>
