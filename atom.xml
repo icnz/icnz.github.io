@@ -6,7 +6,7 @@
   <link href="https://icnz.github.io/atom.xml" rel="self"/>
   
   <link href="https://icnz.github.io/"/>
-  <updated>2022-10-01T14:32:56.339Z</updated>
+  <updated>2022-10-08T03:42:44.789Z</updated>
   <id>https://icnz.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>谷歌翻译退出中国后其翻译网址及翻译插件的使用</title>
+    <link href="https://icnz.github.io/posts/aee37033.html"/>
+    <id>https://icnz.github.io/posts/aee37033.html</id>
+    <published>2022-10-08T01:00:00.000Z</published>
+    <updated>2022-10-08T03:42:44.789Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;9月底开始，&lt;a href=&quot;https://translate.google.cn/&quot;&gt;谷歌在中国的本地化翻译网址 https://translate.google.cn/&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="软件工具" scheme="https://icnz.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="google" scheme="https://icnz.github.io/tags/google/"/>
+    
+    <category term="翻译" scheme="https://icnz.github.io/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown利器Typora最新版免序列号激活</title>
